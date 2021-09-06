@@ -4,7 +4,7 @@ esp8266-wifi-setup
 ESP8266 Wifi setup using SoftAP, Captive Portal and EEPROM.  
 
 1. booting and read Wifi config from EEPROM.
-2. if Wifi config is not found, starting SoftAP at SSID "ESP8266_SETUP".
+2. if Wifi config is not found, starting SoftAP at SSID "LyariWiFi_SETUP".
 3. connect this Access point with your devices. (ex. iPhone, Android...)
 4. Wifi Settings page will automatically open by Captive Portal.
 5. select the SSID, enter the password.
